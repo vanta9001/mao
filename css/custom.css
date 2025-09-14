@@ -1,0 +1,29 @@
+#stud-error {
+  background: red;
+  display: none;
+}
+
+.convention_select_check details {
+  pointer-events: none;
+}
+
+.progress__track {
+  height: 2.125rem;
+}
+
+.progress__track .progress__bar {
+  display: block !important;
+  height: 2.125rem;
+}
+
+.progress {
+  font-size: 24px;
+  min-height: 680px;
+  background: #ffffff;
+}
+
+#updateprogress {
+  background: #ffffff;
+  width: 100%;
+  display: inline-block;
+}
